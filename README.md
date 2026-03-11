@@ -27,4 +27,5 @@ parte de un plan de aprendizaje de Python aplicado a economía.
 
 ## Autor
 José Angel Saldarriaga Jauregui
+
 Estudiante de Economía — UNMSM, 7mo ciclo
