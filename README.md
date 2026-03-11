@@ -14,7 +14,7 @@ parte de un plan de aprendizaje de Python aplicado a economía.
 - El **12.4% del tiempo** hubo movimientos diarios mayores a 0.5%
 
 ## Visualización
-![Análisis Tipo de Cambio](tipo_cambio_analisis%20(1).png)
+![Análisis Tipo de Cambio](tipo_cambio_analisis.png)
 
 ## Herramientas
 - Python 3 / Google Colab
