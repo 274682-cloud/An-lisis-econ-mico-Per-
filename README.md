@@ -13,16 +13,18 @@ parte de un plan de aprendizaje de Python aplicado a economía.
   subida de tasas de la FED
 - El **12.4% del tiempo** hubo movimientos diarios mayores a 0.5%
 
-## Visualización
+## Análisis con Python
 ![Análisis Tipo de Cambio](tipo_cambio_analisis.png)
 
+## Dashboard en Excel
+![Dashboard parte 1](dashboard_1.png)
+![Dashboard parte 2](dashboard_2.png)
+
 ## Herramientas
-- Python 3 / Google Colab
-- pandas — limpieza y análisis de datos
-- matplotlib — visualización
+- Python (pandas, matplotlib) — limpieza y análisis
+- Excel (tablas dinámicas, segmentadores) — dashboard interactivo
 - Fuente de datos: BCRP (estadisticas.bcrp.gob.pe)
 
 ## Autor
 José Angel Saldarriaga Jauregui
-
 Estudiante de Economía — UNMSM, 7mo ciclo
